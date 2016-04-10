@@ -1,0 +1,5 @@
+When would you want to create a remote repository rather than keeping all your work local?
+  
+  If I will be working with other contributers, instead of sharing files, it will be working on a cloud based git. And if I 
+  want to save my work online, so that I can access it from multiple devices, and to be used as a backup.
+  
