@@ -38,4 +38,10 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+	Probably, when I want to work on something away from the master branch and I 
+	won't need any thing to do with the master, for instances fixing a bug or 
+	adding a new feature, it will make it more easy and clear to work on that focused
+	purpose instead of consistencely trying to pull and push from and into the master
+	branch so I can cope with the changes in it. Master branch however is much easier
+	to work on as it decreases a lot of the overhead and decreases the conflicts that
+	can appear.
